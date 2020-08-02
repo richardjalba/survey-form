@@ -1,0 +1,39 @@
+body {
+  font-family: Century Gothic, Arial;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 2.5;
+  color: white;
+  background-color: grey;
+}
+
+h1 {
+  font-family: Arial, Century Gothic;
+  font-size: 30px;
+  line-height: 1;
+  color: white;
+  text-align: center;
+}
+
+#description {
+  font-family: Century Gothic, Arial;
+  font-size: 18px;
+  line-height: 1;
+}
+
+#form-group {
+  line-height: 1;
+}
+
+#input-textarea {
+  width: 75%;
+  height: 75px;
+}
+
+.submit-button {
+  color: inherit;
+  display: block;
+  background: lightgreen;
+  width: 75%;
+  border-radius: 15px;
+}
